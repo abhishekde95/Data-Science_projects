@@ -1,2 +1,2 @@
 # Kaggle
-Here, I analyze the Happiness worldwide data. The goal is to understand the trend and capture that trend using models
+This repository contains some selected notebooks of DS-related analysis that I performed. Most (but not all) datasets were acquired from Kaggle.
